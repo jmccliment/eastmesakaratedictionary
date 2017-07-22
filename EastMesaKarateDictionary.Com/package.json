@@ -1,0 +1,22 @@
+{
+  "name": "eastmesakaratedictionary.com",
+  "version": "0.1.0",
+  "description": "They keep using these words. I do not think they mean what they think they mean.",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmccliment/eastmesakaratedictionary.git"
+  },
+  "keywords": [
+    "OnAQuest",
+    "ToBeTheBest",
+    "EastMesaRocks"
+  ],
+  "author": "jmccliment",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmccliment/eastmesakaratedictionary/issues"
+  },
+  "homepage": "https://github.com/jmccliment/eastmesakaratedictionary#readme"
+}
