@@ -1,0 +1,23 @@
+{
+  "name": "eastmesakaratedictionary.com",
+  "version": "0.1.0",
+  "description": "Definitions used by the instructors at East Mesa Karate. Plus some other stuff...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmccliment/eastmesakaratedictionary.git"
+  },
+  "keywords": [
+    "humor",
+    "karate"
+  ],
+  "author": "Jeremy McCliment",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmccliment/eastmesakaratedictionary/issues"
+  },
+  "homepage": "https://github.com/jmccliment/eastmesakaratedictionary#readme"
+}
